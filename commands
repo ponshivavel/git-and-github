@@ -1,0 +1,53 @@
+git  and GitHub
+
+➡️ to git step is
+ 
+    git init
+
+
+➡️ to git step is
+    
+
+    git add filename  #single file
+    git add .         #multiple file
+
+➡️ to git commit
+
+       git commit -m"version1"
+m is message
+
+
+➡️ to git push
+
+       git push origin main  
+(main is the branch we need modifiy as we need)
+   
+for first time 
+       
+      git push -u origin main 
+
+
+
+➡️ to create the new branch
+
+     git  switch -c milestone/2    
+
+ c means new branch
+
+➡️ to switch to new branch 
+
+    git  switch main 
+
+➡️ to switch to merge
+
+    git  merge filename
+
+➡️ to switch to pull
+
+   git pull orgin main 
+
+➡️ to show the status of commit
+
+git status
+
+
